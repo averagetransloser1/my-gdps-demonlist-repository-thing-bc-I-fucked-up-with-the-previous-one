@@ -1,0 +1,21 @@
+{
+    "id": 8,
+    "name": "Crackathema",
+    "tags": [],
+    "author": "TheRealDoinkGMD",
+    "creators": ["bob"],
+    "verifier": "bob",
+    "verification": "https://www.youtube.com/watch?v=bVLOFif2YnI",
+    "percentToQualify": 65, 
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "ExamplePlayer",
+            "link": "https://www.youtube.com/watch?v=example",
+            "percent": 100,
+            "hz": 240
+        }
+    ],
+    "publisher": "TheRealDoinkGMD",
+    "points": 350
+}
