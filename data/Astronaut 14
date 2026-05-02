@@ -1,0 +1,21 @@
+{
+    "id": 143,
+    "name": "Astronaut 14",
+    "tags": [],
+    "author": "TheRealDoinkGMD",
+    "creators": ["TheRealDoinkGMD"],
+    "verifier": "JustTheOtherGuy",
+    "verification": "https://www.youtube.com/watch?v=a3ICNMQW7Ok",
+    "percentToQualify": 79, 
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "ExamplePlayer",
+            "link": "https://www.youtube.com/watch?v=example",
+            "percent": 100,
+            "hz": 240
+        }
+    ],
+    "publisher": "TheRealDoinkGMD",
+    "points": 350
+}
