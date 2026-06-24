@@ -1,0 +1,21 @@
+{
+    "id": 146,
+    "name": "DIDDY CIRCLES",
+    "tags": [],
+    "author": "therealdoinkGMD",
+    "creators": ["therealdoinkGMD"],
+    "verifier": "XenogenosisALT",
+    "verification": "https://www.youtube.com/watch?v=JYTsQsOUsb4",
+    "percentToQualify": 63, 
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "ExamplePlayer",
+            "link": "https://www.youtube.com/watch?v=example",
+            "percent": 100,
+            "hz": 240
+        }
+    ],
+    "publisher": "therealdoinkGMD",
+    "points": 350
+}
