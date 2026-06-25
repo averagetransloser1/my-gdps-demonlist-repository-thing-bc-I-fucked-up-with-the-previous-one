@@ -9,12 +9,6 @@
     "percentToQualify": 55, 
     "password": "No Copy",
     "records": [
-        {
-            "user": "",
-            "link": "https://www.youtube.com/watch?v=example",
-            "percent": 100,
-            "hz": 240
-        }
     ],
     "publisher": "RhyBear",
     "points": 350
